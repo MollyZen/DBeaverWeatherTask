@@ -14,3 +14,5 @@ Another optional parameter is "scale":
 *All parameters are case-insensetive*
 
 If there was an error when accessing database or retrieving data from yandex.ru JSON/XML with error message will be sent.
+
+All the code for this can be found in "weather.java" file
