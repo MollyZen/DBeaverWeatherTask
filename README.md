@@ -11,7 +11,7 @@ Another optional parameter is "scale":
 - FAR (Fahrenheit)
 - KEL (Kelvin)
 
-*All parameters are case-insensetive*
+*All parameters are case-insensitive*
 
 If there was an error when accessing database or retrieving data from yandex.ru JSON/XML with error message will be sent.
 
